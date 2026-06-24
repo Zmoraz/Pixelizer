@@ -2,6 +2,8 @@
 
 Desktop app for pixelating PNG and JPEG images.
 
+<img width="1051" height="713" alt="screen" src="https://github.com/user-attachments/assets/1fe8b41f-8038-4b36-9665-0ab2934fab3a" />
+
 ## Features
 
 - Load images via **Upload** or drag-and-drop onto the preview
